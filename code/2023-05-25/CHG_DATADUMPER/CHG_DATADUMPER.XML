@@ -1,0 +1,1044 @@
+<?xml version='1.0'?>
+  <!--Warning : Don't edit this file -->
+  <instance class="PJM">
+    <rowset name="PjmDefn" size="2848" count="1">
+      <row>
+        <szLastUpdDttm>2023-05-25-15.38.51.223708</szLastUpdDttm>
+        <szLastUpdOprId>PS</szLastUpdOprId>
+        <szObjectOwnerID></szObjectOwnerID>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>11458</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szProjectName>CHG_DATADUMPER</szProjectName>
+        <szLanguageCd>ENG</szLanguageCd>
+        <szProjectDescr></szProjectDescr>
+        <szSrcDBName>CS92U020</szSrcDBName>
+        <szSrcOprId>PS</szSrcOprId>
+        <szSessionId>6b9c01a4-fb12-11ed-8c67-eb536cf73a04</szSessionId>
+        <szRunDtTm>2023-05-25-15.40.05.223005</szRunDtTm>
+        <szTgtServerName></szTgtServerName>
+        <szTgtDBName></szTgtDBName>
+        <szTgtOprId></szTgtOprId>
+        <fReportFilter>16232832</fReportFilter>
+        <eTargetOrientation>0</eTargetOrientation>
+        <eCompareType>1</eCompareType>
+        <fKeepTgt>31</fKeepTgt>
+        <nCommitLimit>50</nCommitLimit>
+        <szCompRelease></szCompRelease>
+        <szCompRelDttm></szCompRelDttm>
+        <bMaintenanceProject>0</bMaintenanceProject>
+        <bUseDbFieldNameAttrib>0</bUseDbFieldNameAttrib>
+        <szReleaseLabel></szReleaseLabel>
+        <szReleaseDttm></szReleaseDttm>
+        <nDescrLongLen>0</nDescrLongLen>
+        <hDescrLong>HANDLE</hDescrLong>
+        <nProjectCount>2</nProjectCount>
+        <lpPit> POINTER
+          <rowset name="PjmPit" size="1712" count="2">
+            <row>
+              <eObjectType>57</eObjectType>
+              <szObjectValue_0>CHG_DEBUG</szObjectValue_0>
+              <szObjectValue_1>CHG_DEBUG</szObjectValue_1>
+              <szObjectValue_2>.</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>116</eObjectID_1>
+              <eObjectID_2>117</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>CHG_DEBUG</szObjectValue_0>
+              <szObjectValue_1>dataDumper</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+          </rowset>
+        </lpPit>
+        <nAdsBindingCount>0</nAdsBindingCount>
+        <pPrjAdsBinding>POINTER</pPrjAdsBinding>
+        <bCopyAllSec>1</bCopyAllSec>
+        <bCompAllSec>1</bCompAllSec>
+        <nSecCount>70</nSecCount>
+        <lpSec> POINTER
+          <rowset name="PjmSec" size="1400" count="70">
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>COMMON</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ARA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>BUL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CFR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CRO</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CZE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>DAN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>DUT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ENG</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ESP</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>FIN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>FRA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>GER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>GRK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>HEB</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>HUN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ITA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>JPN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>KOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>MAY</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>NOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>POL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>POR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ROM</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>RUS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SLK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SLV</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SVE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>THA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>TUR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>UKE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>VIE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ZHS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ZHT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>COMMON</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ARA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>BUL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CFR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CRO</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CZE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>DAN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>DUT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ENG</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ESP</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>FIN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>FRA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>GER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>GRK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>HEB</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>HUN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ITA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>JPN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>KOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>MAY</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>NOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>POL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>POR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ROM</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>RUS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SLK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SLV</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SVE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>THA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>TUR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>UKE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>VIE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ZHS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ZHT</szSectionName>
+            </row>
+          </rowset>
+        </lpSec>
+        <nIncCount>0</nIncCount>
+        <lpInc>POINTER</lpInc>
+        <nDepCount>0</nDepCount>
+        <lpDep>POINTER</lpDep>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="APM">
+    <rowset name="ApmDefn" size="968" count="1">
+      <row>
+        <szLastUpdDttm>2023-05-25-15.38.49.223212</szLastUpdDttm>
+        <szLastUpdOprId>PS</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>105</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szPackageId>CHG_DEBUG</szPackageId>
+        <szLanguageCd>ENG</szLanguageCd>
+        <szPackageRoot>CHG_DEBUG</szPackageRoot>
+        <szQualifyPath>.</szQualifyPath>
+        <lPackageLevel>0</lPackageLevel>
+        <szPackageRef></szPackageRef>
+        <szDescr>DATA DUMPER - DEBUG TOOLS</szDescr>
+        <lDescrLongLen>194</lDescrLongLen>
+        <lpszDescrLong> POINTER
+          <rowset name="char" size="194" count="1">
+            <row>
+              <lpszDescrLong>https://www.cedarhillsgroup.com/knowledge-base/kbarticles/introduction-to-the-datadumper-logger/</lpszDescrLong>
+            </row>
+          </rowset>
+        </lpszDescrLong>
+        <eRenameObject>0</eRenameObject>
+        <szPrevPackageId></szPrevPackageId>
+        <ApmDefnList.lClassCount>1</ApmDefnList.lClassCount>
+        <ApmDefnList.hDefnClassList> HANDLE
+          <rowset name="ApmClassList" size="464" count="1">
+            <row>
+              <ApmClassKey.szClassId>dataDumper</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>CHG_DEBUG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>dataDumper</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+          </rowset>
+        </ApmDefnList.hDefnClassList>
+        <ApmDefnList.lPackageCount>0</ApmDefnList.lPackageCount>
+        <ApmDefnList.hDefnPackageList>HANDLE</ApmDefnList.hDefnPackageList>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2023-05-25-15.38.49.223230</szLastUpdDttm>
+        <szLastUpdOprId>PS</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>209759</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>CHG_DEBUG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>dataDumper</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>7</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>20345</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>816</lEntryNamesLen>
+              <nEntry>34</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>37</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="3738" count="7">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>RECORD</szFieldName>
+              <szPackageRoot>Record</szPackageRoot>
+              <szQualifyPath>Record</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>ROWSET</szFieldName>
+              <szPackageRoot>Rowset</szPackageRoot>
+              <szQualifyPath>Rowset</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>ROW</szFieldName>
+              <szPackageRoot>Row</szPackageRoot>
+              <szQualifyPath>Row</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>FIELD</szFieldName>
+              <szPackageRoot>Field</szPackageRoot>
+              <szQualifyPath>Field</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>FILE</szFieldName>
+              <szPackageRoot>File</szPackageRoot>
+              <szQualifyPath>File</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>DATADUMPER</szFieldName>
+              <szPackageRoot>CHG_DEBUG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod>PURGEFILECONTENTS</szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>/*
+
+Copyright (c) 2009, Chris Malek (chris.malek@cedarhillsgroup.com)
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, 
+this list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation 
+and/or other materials provided with the distribution.
+
+* Neither the name of the Cedar Hills Group Inc. nor the names of
+ its contributors may be used to endorse or promote products derived
+  from this software without specific prior written permission.
+
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT 
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS 
+ FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT 
+ HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED 
+ TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, 
+ OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY 
+ OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF 
+  THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
+  OF SUCH DAMAGE.
+
+http://www.freebsd.org/copyright/freebsd-license.html
+
+*/
+
+/* version 1.0 */
+
+
+class dataDumper
+   property string FileName get set;
+   
+   method dataDumper(&amp;FileNameIn As string);
+   
+   method purgeFileContents();
+   
+   method dump(&amp;val As any);
+   method dumpString(&amp;stringToWrite As string);
+   method dumpRecord(&amp;rec As Record);
+   method dumpArrayOfRecords(&amp;array As array of Record);
+   method dumpRowset(&amp;rs As Rowset);
+   method dumpRow(&amp;row As Row);
+   method dumpArray(&amp;array As array);
+   method dumpArrayOfString(&amp;array As array of string);
+   method emailDumpFile(&amp;address As string);
+   method dumpLevelZero();
+   method dumpCurrentRow();
+   method dumpQueryString();
+   method dumpField(&amp;fldField As Field);
+   method whiteSpace(&amp;i As integer);
+   method dumpHTTPHeader();
+   method dumpRowsetValuesAsCSV(&amp;rs As Rowset, &amp;excludeFieldNames As string);
+   property string emailSubject;
+   property string emailBody;
+   property string output;
+   property integer indentLevel;
+   property string fileContents get;
+private
+   instance string &amp;UserFileName;
+   instance string &amp;FullFileName;
+   method openFile() Returns File;
+   instance string &amp;crlf;
+   instance string &amp;br;
+   instance string &amp;LineBreak;
+   
+end-class;
+
+
+set FileName
+   /+ &amp;NewValue as String +/
+   
+   &amp;UserFileName = &amp;NewValue;
+   
+   Local string &amp;tempFileName, &amp;baseDirectory;
+   
+   If None(&amp;NewValue) Then
+      &amp;tempFileName = RTrim(%OperatorId) | &quot;.txt&quot;;
+   Else
+      &amp;tempFileName = RTrim(LTrim(&amp;NewValue));
+   End-If;
+   
+   
+   rem &amp;PSHOME = GetEnv(&quot;PS_HOME&quot;);
+   Local string &amp;serverHome;
+   &amp;serverHome = GetEnv(&quot;PS_SERVDIR&quot;);
+   
+   &amp;baseDirectory = &amp;serverHome | &quot;/LOGS/&quot;;
+   &amp;FullFileName = &amp;baseDirectory | &amp;tempFileName;
+end-set;
+
+get FileName
+   /+ Returns String +/
+   Return &amp;UserFileName;
+end-get;
+
+
+
+
+method dataDumper
+   /+ &amp;FileNameIn as String +/
+   &amp;crlf = (Char(13) | Char(10));
+   &amp;br = &quot;&lt;br/&gt;&quot;;
+   
+   If None(&amp;FileNameIn) Then
+      %This.FileName = RTrim(%OperatorId) | &quot;_debug_file.txt&quot;;
+   Else
+      %This.FileName = &amp;FileNameIn;
+   End-If;
+   
+   %This.purgeFileContents();
+   
+end-method;
+
+method purgeFileContents
+   
+   Local File &amp;f;
+   
+   If FileExists(&amp;FullFileName, %FilePath_Absolute) Then
+      &amp;f = GetFile(&amp;FullFileName, &quot;W&quot;, %FilePath_Absolute);
+      &amp;f.Close();
+   End-If;
+   
+end-method;
+
+
+method openFile
+   /+ Returns File +/
+   
+   Local File &amp;f;
+   
+   If FileExists(&amp;FullFileName, %FilePath_Absolute) Then
+      &amp;f = GetFile(&amp;FullFileName, &quot;A&quot;, %FilePath_Absolute);
+   Else
+      &amp;f = GetFile(&amp;FullFileName, &quot;W&quot;, %FilePath_Absolute);
+   End-If;
+   
+   
+   Return &amp;f;
+end-method;
+
+
+method dumpString
+   /+ &amp;stringToWrite as String +/
+   
+   Local File &amp;f;
+   Local string &amp;temp;
+   &amp;temp = Rept(&quot; &quot;, %This.indentLevel) | &amp;stringToWrite;
+   &amp;f = %This.openFile();
+   &amp;f.WriteLine(&amp;temp);
+   &amp;f.Close();
+   
+   
+   
+end-method;
+
+
+method dumpField
+   /+ &amp;fldField as Field +/
+   %This.dumpString(&quot;&quot;);
+   %This.dumpString(&quot;______DUMP FIELD_____&quot;);
+   %This.dumpString(&quot;   &quot; | &quot;Name      : &quot; | &amp;fldField.Name);
+   %This.dumpString(&quot;   &quot; | &quot;value      : &quot; | &amp;fldField.Value);
+   %This.dumpString(&quot;   &quot; | &quot;OriginalValue      : &quot; | &amp;fldField.OriginalValue);
+   %This.dumpString(&quot;   &quot; | &quot;FormattedValue      : &quot; | &amp;fldField.FormattedValue);
+   %This.dumpString(&quot;   &quot; | &quot;DisplayOnly      : &quot; | &amp;fldField.DisplayOnly);
+   %This.dumpString(&quot;   &quot; | &quot;Visible      : &quot; | &amp;fldField.Visible);
+   %This.dumpString(&quot;   &quot; | &quot;IsInBuf      : &quot; | &amp;fldField.IsInBuf);
+   %This.dumpString(&quot;   &quot; | &quot;isChanged      : &quot; | &amp;fldField.IsChanged);
+   If &amp;fldField.IsEditXlat Then
+      %This.dumpString(&quot;   &quot; | &quot; LongTranslateValue     : &quot; | &amp;fldField.LongTranslateValue);
+   End-If;
+   %This.dumpString(&quot;&quot;);
+end-method;
+
+method dumpRecord
+   /+ &amp;rec as Record +/
+   
+   
+   %This.dumpString(&quot;____DUMP_RECORD_____&quot;);
+   %This.dumpString(&quot; Record.Name: &quot; | &amp;rec.Name);
+   
+   
+   %This.dumpString((&quot;     record.IsChanged: &quot; | &amp;rec.IsChanged));
+   %This.dumpString((&quot;     record.IsDeleted: &quot; | &amp;rec.IsDeleted));
+   %This.dump(&quot;&quot;);
+   %This.dumpString((&quot;     &quot; | &amp;rec.Name | &quot; field values &quot;));
+   Local integer &amp;i;
+   Local Field &amp;fldField;
+   Local string &amp;changed;
+   Local string &amp;spacer;
+   Local integer &amp;numbSpaces = 25;
+   
+   
+   For &amp;i = 1 To &amp;rec.FieldCount
+      
+      If &amp;rec.GetField(&amp;i).IsInBuf Then
+         &amp;fldField = &amp;rec.GetField(&amp;i);
+         
+         
+         &amp;spacer = Rept(&quot; &quot;, (&amp;numbSpaces - Len(&amp;fldField.Name)));
+         If &amp;rec.GetField(&amp;i).IsChanged Then
+            &amp;changed = &quot;    **CHANGED**  Original Value = &quot; | &amp;fldField.OriginalValue;
+         Else
+            &amp;changed = &quot;&quot;;
+            
+         End-If;
+         If &amp;fldField.IsEditXlat Then
+            %This.dumpString((&quot;     &quot; | &amp;fldField.Name | &amp;spacer | &quot; ==&gt; &quot; | &amp;fldField.Value | &quot; - &quot; | &amp;fldField.LongTranslateValue | &amp;changed));
+         Else
+            %This.dumpString((&quot;     &quot; | &amp;fldField.Name | &amp;spacer | &quot; ==&gt; &quot; | &amp;fldField.Value) | &amp;changed);
+         End-If;
+         
+      End-If /* IN BUFFER */
+   End-For;
+   
+end-method;
+
+method dumpArrayOfRecords
+   /+ &amp;array as Array of Record +/
+   
+   
+   Local Record &amp;rec;
+   Local integer &amp;arrayCounter;
+   If All(&amp;array) Then
+      For &amp;arrayCounter = 1 To &amp;array.Len
+         &amp;rec = &amp;array [&amp;arrayCounter];
+         %This.dumpRecord(&amp;rec);
+      End-For;
+   End-If;
+   
+end-method;
+
+method dumpRow
+   /+ &amp;row as Row +/
+   
+   
+   %This.dumpString(&quot;____DUMPING ROW_____&quot;);
+   rem    %This.dump(&quot; Recname   : &quot; | &amp;row.REC);
+   %This.dump(&quot; RowNumber   : &quot; | &amp;row.RowNumber);
+   %This.dump(&quot; IsNew       : &quot; | &amp;row.IsNew);
+   %This.dump(&quot; IsDeleted   : &quot; | &amp;row.IsDeleted);
+   %This.dump(&quot; IsChanged   : &quot; | &amp;row.IsChanged);
+   %This.dump(&quot; Visible     : &quot; | &amp;row.Visible);
+   
+   Local integer &amp;i;
+   Local integer &amp;indentPreseve;
+   
+   &amp;indentPreseve = %This.indentLevel;
+   %This.indentLevel = %This.indentLevel + 4;
+   For &amp;i = 1 To &amp;row.RecordCount
+      %This.whiteSpace(2);
+      %This.dumpRecord(&amp;row.GetRecord(&amp;i));
+   End-For;
+   %This.dumpString(&quot;____ENDING DUMP ROW___&quot;);
+   
+   %This.indentLevel = &amp;indentPreseve;
+end-method;
+
+
+
+method dumpRowset
+   /+ &amp;rs as Rowset +/
+   %This.dumpString(&quot;______DUMPING ROWSET ____&quot;);
+   
+   %This.dumpString((&quot;  DBRecordName: &quot; | &amp;rs.DBRecordName));
+   %This.dumpString((&quot;    Level  ==&gt; &quot; | &amp;rs.Level));
+   
+   
+   Local integer &amp;rowCounter;
+   Local integer &amp;indentPreseve;
+   
+   &amp;indentPreseve = %This.indentLevel;
+   %This.indentLevel = %This.indentLevel + 4;
+   
+   
+   For &amp;rowCounter = 1 To &amp;rs.RowCount
+      Local Row &amp;rw;
+      &amp;rw = &amp;rs.GetRow(&amp;rowCounter);
+      %This.dumpRow(&amp;rw);
+      %This.whiteSpace(2);
+      
+   End-For; /* row loop */
+   %This.indentLevel = &amp;indentPreseve;
+   
+end-method;
+
+method dumpArray
+   /+ &amp;array as Array of Any +/
+   
+   %This.dumpString(&quot;_____BEGIN ARRAY DUMP_____&quot;);
+   Local integer &amp;debugi;
+   If All(&amp;array) Then
+      For &amp;debugi = 1 To &amp;array.Len
+         %This.dumpString(&amp;array [&amp;debugi]);
+      End-For;
+   End-If;
+   %This.dumpString(&quot;_____END ARRAY DUMP_____&quot;);
+   
+end-method;
+
+
+method dumpArrayOfString
+   /+ &amp;array as Array of String +/
+   %This.dumpString(&quot;_____BEGIN ARRAY DUMP_____&quot;);
+   Local integer &amp;debugi;
+   If All(&amp;array) Then
+      For &amp;debugi = 1 To &amp;array.Len
+         %This.dumpString(&amp;array [&amp;debugi]);
+      End-For;
+   End-If;
+   %This.dumpString(&quot;_____EMAIL ARRAY DUMP_____&quot;);
+   
+end-method;
+
+method emailDumpFile
+   /+ &amp;address as String +/
+   
+   Local string &amp;tmpEmail;
+   
+   If All(&amp;address) Then
+      &amp;tmpEmail = &amp;address;
+      Local string &amp;subj, &amp;body;
+      
+      Local string &amp;content;
+      Local string &amp;bodytemp = %This.emailBody;
+      
+      If None(&amp;bodytemp) Then
+         
+         &amp;subj = &amp;emailSubject | &quot; | &quot; | %OperatorId | &quot;-&quot; | %DbName | &quot; | Debug Dumper | &quot; | %Datetime;
+         
+         
+         &amp;body = &quot;Attached you will find the debug dumper you requested. &quot; | &amp;crlf;
+         &amp;body = &amp;body | &quot;If you did not request this file, please contact your technical team and ignore this email.&quot; | &amp;crlf;
+         
+         &amp;body = &amp;body | &quot; Full File Name: &quot; | &amp;FullFileName;
+      Else
+         &amp;body = %This.emailBody;
+      End-If;
+      
+      SendMail(0, &amp;tmpEmail, &quot;&quot;, &quot;&quot;, &amp;subj, &amp;body, &amp;FullFileName, &amp;UserFileName, &quot;&quot;, &quot;,&quot;, &amp;content);
+   End-If;
+   
+end-method;
+
+
+method dumpLevelZero
+   %This.dumpRowset(GetLevel0());
+end-method;
+
+
+method dumpCurrentRow
+   %This.dumpRow(GetRow());
+   
+end-method;
+
+
+method dump
+   /+ &amp;val as Any +/
+   %This.dumpString(String(&amp;val));
+end-method;
+
+method whiteSpace
+   /+ &amp;i as Integer +/
+   If &amp;i = 0 Then
+      %This.dumpString(&quot;&quot;);
+   Else
+      Local integer &amp;cnt;
+      For &amp;cnt = 1 To &amp;i
+         %This.dumpString(&quot;&quot;);
+      End-For;
+   End-If;
+   
+   
+end-method;
+
+get fileContents
+   /+ Returns String +/
+   
+   Local string &amp;return, &amp;line;
+   
+   Local File &amp;file = %This.openFile();
+   
+   While &amp;file.ReadLine(&amp;line);
+      &amp;return = &amp;return | &amp;line;
+   End-While;
+   
+   Return &amp;return;
+end-get;
+
+
+
+method dumpQueryString
+   
+   %This.dumpString(&quot; _____BEGIN DUMP HTTP QUERY STRING ___ &quot;);
+   %This.dumpString(&quot;__Query String Parameters ___ &quot;);
+   
+   %This.dumpString(&quot;Full Uri&quot;);
+   %This.dumpString(%Request.RequestURI);
+   %This.dumpString(&quot;Query String&quot;);
+   %This.dumpString(%Request.QueryString);
+   
+   
+   Local array of string &amp;parmNames;
+   Local integer &amp;i;
+   &amp;parmNames = %Request.GetParameterNames();
+   For &amp;i = 1 To &amp;parmNames.Len
+      
+      %This.dumpString(&quot;   &quot; | &amp;parmNames [&amp;i] | &quot;:&quot; | %Request.GetParameter(&amp;parmNames [&amp;i]));
+      
+   End-For;
+   %This.dumpString(&quot; _____END DUMP HTTP QUERY STRING  ___ &quot;);
+   
+   
+   
+end-method;
+
+
+
+method dumpHTTPHeader
+   %This.dumpString(&quot; _____BEGIN DUMP HTTP HEADERS ___ &quot;);
+   
+   Local array of string &amp;hdrNames;
+   Local integer &amp;i;
+   &amp;hdrNames = %Request.GetHeaderNames();
+   For &amp;i = 1 To &amp;hdrNames.Len
+      
+      %This.dumpString(&quot;   &quot; | &amp;hdrNames [&amp;i] | &quot;:&quot; | %Request.GetHeader(&amp;hdrNames [&amp;i]));
+      
+   End-For;
+   %This.dumpString(&quot; _____END DUMP HTTP HEADERS ___ &quot;);
+   
+end-method;
+
+
+
+
+method dumpRowsetValuesAsCSV
+   /+ &amp;rs as Rowset, +/
+   /+ &amp;excludeFieldNames as String +/
+   /* This only dumps the primary record */
+   
+   
+   Local integer &amp;rowCounter;
+   Local integer &amp;indentPreseve;
+   
+   &amp;indentPreseve = %This.indentLevel;
+   %This.indentLevel = %This.indentLevel + 4;
+   
+   Local integer &amp;fieldNumber;
+   
+   Local Record &amp;rec;
+   
+   Local string &amp;csvrow;
+   
+   For &amp;fieldNumber = 1 To &amp;rs.GetRow(1).GetRecord(1).FieldCount
+      
+      If Find(&amp;rs.GetRow(1).GetRecord(1).GetField(&amp;fieldNumber).Name, &amp;excludeFieldNames) &lt;= 0 Then
+         If &amp;fieldNumber &gt; 1 Then
+            &amp;csvrow = &amp;csvrow | &quot;,&quot;;
+         End-If;
+         
+         
+         &amp;csvrow = &amp;csvrow | &amp;rs.GetRow(1).GetRecord(1).GetField(&amp;fieldNumber).Name;
+         
+      End-If;
+   End-For;
+   %This.dump(&amp;csvrow);
+   For &amp;rowCounter = 1 To &amp;rs.RowCount
+      
+      &amp;csvrow = &quot;&quot;;
+      For &amp;fieldNumber = 1 To &amp;rs.GetRow(&amp;rowCounter).GetRecord(1).FieldCount
+         If Find(&amp;rs.GetRow(1).GetRecord(1).GetField(&amp;fieldNumber).Name, &amp;excludeFieldNames) &lt;= 0 Then
+            
+            If &amp;fieldNumber &gt; 1 Then
+               &amp;csvrow = &amp;csvrow | &quot;,&quot;;
+            End-If;
+            &amp;csvrow = &amp;csvrow | &amp;rs.GetRow(&amp;rowCounter).GetRecord(1).GetField(&amp;fieldNumber).Value;
+         End-If;
+      End-For;
+      
+      %This.dump(&amp;csvrow);
+      
+      
+      
+   End-For; /* row loop */
+   %This.indentLevel = &amp;indentPreseve;
+   
+   
+   
+   
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>W1IAAAQDAgEBAAAAvAIAAAAAAABoEkMASABHAF8ARABFAEIAVQBHAGsUZABhAHQAYQBEAHUAbQBwAGUAcgAMEk8AbgBFAHgAZQBjAHUAdABlAAAAAAAAAAAA/18zAwAHAAEA/wAAAAAAAAAANDIAMAAyADMALQAwADUALQAyADUALQAxADUALgAzADgALgA0ADkALgAyADIAMwAyADMAMAA0MgAwADIAMwAtADAANQAtADIANQAtADEANQAuADMAOAAuADQAOQAuADIAMgAzADIAMwAwAARQAFMAAAD/eU8AAP8BAAAAJJgM/5gMAAAvACoACgAKAEMAbwBwAHkAcgBpAGcAaAB0ACAAKABjACkAIAAyADAAMAA5ACwAIABDAGgAcgBpAHMAIABNAGEAbABlAGsAIAAoAGMAaAByAGkAcwAuAG0AYQBsAGUAawBAAGMAZQBkAGEAcgBoAGkAbABsAHMAZwByAG8AdQBwAC4AYwBvAG0AKQAKAEEAbABsACAAcgBpAGcAaAB0AHMAIAByAGUAcwBlAHIAdgBlAGQALgAKAAoAUgBlAGQAaQBzAHQAcgBpAGIAdQB0AGkAbwBuACAAYQBuAGQAIAB1AHMAZQAgAGkAbgAgAHMAbwB1AHIAYwBlACAAYQBuAGQAIABiAGkAbgBhAHIAeQAgAGYAbwByAG0AcwAsACAAdwBpAHQAaAAgAG8AcgAgAHcAaQB0AGgAbwB1AHQAIAAKAG0AbwBkAGkAZgBpAGMAYQB0AGkAbwBuACwAIABhAHIAZQAgAHAAZQByAG0AaQB0AHQAZQBkACAAcAByAG8AdgBpAGQAZQBkACAAdABoAGEAdAAgAHQAaABlACAAZgBvAGwAbABvAHcAaQBuAGcAIABjAG8AbgBkAGkAdABpAG8AbgBzACAAYQByAGUAIABtAGUAdAA6AAoACgAqACAAUgBlAGQAaQBzAHQAcgBpAGIAdQB0AGkAbwBuAHMAIABvAGYAIABzAG8AdQByAGMAZQAgAGMAbwBkAGUAIABtAHUAcwB0ACAAcgBlAHQAYQBpAG4AIAB0AGgAZQAgAGEAYgBvAHYAZQAgAGMAbwBwAHkAcgBpAGcAaAB0ACAAbgBvAHQAaQBjAGUALAAgAAoAdABoAGkAcwAgAGwAaQBzAHQAIABvAGYAIABjAG8AbgBkAGkAdABpAG8AbgBzACAAYQBuAGQAIAB0AGgAZQAgAGYAbwBsAGwAbwB3AGkAbgBnACAAZABpAHMAYwBsAGEAaQBtAGUAcgAuAAoACgAqACAAUgBlAGQAaQBzAHQAcgBpAGIAdQB0AGkAbwBuAHMAIABpAG4AIABiAGkAbgBhAHIAeQAgAGYAbwByAG0AIABtAHUAcwB0ACAAcgBlAHAAcgBvAGQAdQBjAGUAIAB0AGgAZQAgAGEAYgBvAHYAZQAgAGMAbwBwAHkAcgBpAGcAaAB0ACAAbgBvAHQAaQBjAGUALAAKAHQAaABpAHMAIABsAGkAcwB0ACAAbwBmACAAYwBvAG4AZABpAHQAaQBvAG4AcwAgAGEAbgBkACAAdABoAGUAIABmAG8AbABsAG8AdwBpAG4AZwAgAGQAaQBzAGMAbABhAGkAbQBlAHIAIABpAG4AIAB0AGgAZQAgAGQAbwBjAHUAbQBlAG4AdABhAHQAaQBvAG4AIAAKAGEAbgBkAC8AbwByACAAbwB0AGgAZQByACAAbQBhAHQAZQByAGkAYQBsAHMAIABwAHIAbwB2AGkAZABlAGQAIAB3AGkAdABoACAAdABoAGUAIABkAGkAcwB0AHIAaQBiAHUAdABpAG8AbgAuAAoACgAqACAATgBlAGkAdABoAGUAcgAgAHQAaABlACAAbgBhAG0AZQAgAG8AZgAgAHQAaABlACAAQwBlAGQAYQByACAASABpAGwAbABzACAARwByAG8AdQBwACAASQBuAGMALgAgAG4AbwByACAAdABoAGUAIABuAGEAbQBlAHMAIABvAGYACgAgAGkAdABzACAAYwBvAG4AdAByAGkAYgB1AHQAbwByAHMAIABtAGEAeQAgAGIAZQAgAHUAcwBlAGQAIAB0AG8AIABlAG4AZABvAHIAcwBlACAAbwByACAAcAByAG8AbQBvAHQAZQAgAHAAcgBvAGQAdQBjAHQAcwAgAGQAZQByAGkAdgBlAGQACgAgACAAZgByAG8AbQAgAHQAaABpAHMAIABzAG8AZgB0AHcAYQByAGUAIAB3AGkAdABoAG8AdQB0ACAAcwBwAGUAYwBpAGYAaQBjACAAcAByAGkAbwByACAAdwByAGkAdAB0AGUAbgAgAHAAZQByAG0AaQBzAHMAaQBvAG4ALgAKAAoACgAKAFQASABJAFMAIABTAE8ARgBUAFcAQQBSAEUAIABJAFMAIABQAFIATwBWAEkARABFAEQAIABCAFkAIABUAEgARQAgAEMATwBQAFkAUgBJAEcASABUACAASABPAEwARABFAFIAUwAgAEEATgBEACAAQwBPAE4AVABSAEkAQgBVAFQATwBSAFMACgAgACIAQQBTACAASQBTACIAIABBAE4ARAAgAEEATgBZACAARQBYAFAAUgBFAFMAUwAgAE8AUgAgAEkATQBQAEwASQBFAEQAIABXAEEAUgBSAEEATgBUAEkARQBTACwAIABJAE4AQwBMAFUARABJAE4ARwAsACAAQgBVAFQAIABOAE8AVAAgAAoAIABMAEkATQBJAFQARQBEACAAVABPACwAIABUAEgARQAgAEkATQBQAEwASQBFAEQAIABXAEEAUgBSAEEATgBUAEkARQBTACAATwBGACAATQBFAFIAQwBIAEEATgBUAEEAQgBJAEwASQBUAFkAIABBAE4ARAAgAEYASQBUAE4ARQBTAFMAIAAKACAARgBPAFIAIABBACAAUABBAFIAVABJAEMAVQBMAEEAUgAgAFAAVQBSAFAATwBTAEUAIABBAFIARQAgAEQASQBTAEMATABBAEkATQBFAEQALgAgAEkATgAgAE4ATwAgAEUAVgBFAE4AVAAgAFMASABBAEwATAAgAFQASABFACAAQwBPAFAAWQBSAEkARwBIAFQAIAAKACAASABPAEwARABFAFIAIABPAFIAIABDAE8ATgBUAFIASQBCAFUAVABPAFIAUwAgAEIARQAgAEwASQBBAEIATABFACAARgBPAFIAIABBAE4AWQAgAEQASQBSAEUAQwBUACwAIABJAE4ARABJAFIARQBDAFQALAAgAEkATgBDAEkARABFAE4AVABBAEwALAAgAAoAIABTAFAARQBDAEkAQQBMACwAIABFAFgARQBNAFAATABBAFIAWQAsACAATwBSACAAQwBPAE4AUwBFAFEAVQBFAE4AVABJAEEATAAgAEQAQQBNAEEARwBFAFMAIAAoAEkATgBDAEwAVQBEAEkATgBHACwAIABCAFUAVAAgAE4ATwBUACAATABJAE0ASQBUAEUARAAgAAoAIABUAE8ALAAgAFAAUgBPAEMAVQBSAEUATQBFAE4AVAAgAE8ARgAgAFMAVQBCAFMAVABJAFQAVQBUAEUAIABHAE8ATwBEAFMAIABPAFIAIABTAEUAUgBWAEkAQwBFAFMAOwAgAEwATwBTAFMAIABPAEYAIABVAFMARQAsACAARABBAFQAQQAsACAACgAgAE8AUgAgAFAAUgBPAEYASQBUAFMAOwAgAE8AUgAgAEIAVQBTAEkATgBFAFMAUwAgAEkATgBUAEUAUgBSAFUAUABUAEkATwBOACkAIABIAE8AVwBFAFYARQBSACAAQwBBAFUAUwBFAEQAIABBAE4ARAAgAE8ATgAgAEEATgBZACAAVABIAEUATwBSAFkAIAAKACAATwBGACAATABJAEEAQgBJAEwASQBUAFkALAAgAFcASABFAFQASABFAFIAIABJAE4AIABDAE8ATgBUAFIAQQBDAFQALAAgAFMAVABSAEkAQwBUACAATABJAEEAQgBJAEwASQBUAFkALAAgAE8AUgAgAFQATwBSAFQACgAgACAAKABJAE4AQwBMAFUARABJAE4ARwAgAE4ARQBHAEwASQBHAEUATgBDAEUAIABPAFIAIABPAFQASABFAFIAVwBJAFMARQApACAAQQBSAEkAUwBJAE4ARwAgAEkATgAgAEEATgBZACAAVwBBAFkAIABPAFUAVAAgAE8ARgAgAAoAIAAgAFQASABFACAAVQBTAEUAIABPAEYAIABUAEgASQBTACAAUwBPAEYAVABXAEEAUgBFACwAIABFAFYARQBOACAASQBGACAAQQBEAFYASQBTAEUARAAgAE8ARgAgAFQASABFACAAUABPAFMAUwBJAEIASQBMAEkAVABZACAACgAgACAATwBGACAAUwBVAEMASAAgAEQAQQBNAEEARwBFAC4ACgAKAGgAdAB0AHAAOgAvAC8AdwB3AHcALgBmAHIAZQBlAGIAcwBkAC4AbwByAGcALwBjAG8AcAB5AHIAaQBnAGgAdAAvAGYAcgBlAGUAYgBzAGQALQBsAGkAYwBlAG4AcwBlAC4AaAB0AG0AbAAKAAoAKgAvAE8kIgAiLwAqACAAdgBlAHIAcwBpAG8AbgAgADEALgAwACAAKgAvAE9PWgoUZABhAHQAYQBEAHUAbQBwAGUAcgBeQAxzAHQAcgBpAG4AZwAKEEYAaQBsAGUATgBhAG0AZQBfSRVPYwoUZABhAHQAYQBEAHUAbQBwAGUAcgALARYmAEYAaQBsAGUATgBhAG0AZQBJAG4ANUAMcwB0AHIAaQBuAGcAFBVPYwoicAB1AHIAZwBlAEYAaQBsAGUAQwBvAG4AdABlAG4AdABzAAsUFU9jCghkAHUAbQBwAAsBCCYAdgBhAGwANUAGYQBuAHkAFBVjChRkAHUAbQBwAFMAdAByAGkAbgBnAAsBHCYAcwB0AHIAaQBuAGcAVABvAFcAcgBpAHQAZQA1QAxzAHQAcgBpAG4AZwAUFWMKFGQAdQBtAHAAUgBlAGMAbwByAGQACwEIJgByAGUAYwA1CgxSAGUAYwBvAHIAZAAUFWMKJGQAdQBtAHAAQQByAHIAYQB5AE8AZgBSAGUAYwBvAHIAZABzAAsBDCYAYQByAHIAYQB5ADVACmEAcgByAGEAeQBABG8AZgAKDFIAZQBjAG8AcgBkABQVYwoUZAB1AG0AcABSAG8AdwBzAGUAdAALAQYmAHIAcwA1CgxSAG8AdwBzAGUAdAAUFWMKDmQAdQBtAHAAUgBvAHcACwEIJgByAG8AdwA1CgZSAG8AdwAUFWMKEmQAdQBtAHAAQQByAHIAYQB5AAsBDCYAYQByAHIAYQB5ADVACmEAcgByAGEAeQAUFWMKImQAdQBtAHAAQQByAHIAYQB5AE8AZgBTAHQAcgBpAG4AZwALAQwmAGEAcgByAGEAeQA1QAphAHIAcgBhAHkAQARvAGYAQAxzAHQAcgBpAG4AZwAUFWMKGmUAbQBhAGkAbABEAHUAbQBwAEYAaQBsAGUACwEQJgBhAGQAZAByAGUAcwBzADVADHMAdAByAGkAbgBnABQVYwoaZAB1AG0AcABMAGUAdgBlAGwAWgBlAHIAbwALFBVjChxkAHUAbQBwAEMAdQByAHIAZQBuAHQAUgBvAHcACxQVYwoeZAB1AG0AcABRAHUAZQByAHkAUwB0AHIAaQBuAGcACxQVYwoSZAB1AG0AcABGAGkAZQBsAGQACwESJgBmAGwAZABGAGkAZQBsAGQANQoKRgBpAGUAbABkABQVYwoUdwBoAGkAdABlAFMAcABhAGMAZQALAQQmAGkANUAOaQBuAHQAZQBnAGUAcgAUFWMKHGQAdQBtAHAASABUAFQAUABIAGUAYQBkAGUAcgALFBVjCipkAHUAbQBwAFIAbwB3AHMAZQB0AFYAYQBsAHUAZQBzAEEAcwBDAFMAVgALAQYmAHIAcwA1CgxSAG8AdwBzAGUAdAADASQmAGUAeABjAGwAdQBkAGUARgBpAGUAbABkAE4AYQBtAGUAcwA1QAxzAHQAcgBpAG4AZwAUFV5ADHMAdAByAGkAbgBnAAoYZQBtAGEAaQBsAFMAdQBiAGoAZQBjAHQAFV5ADHMAdAByAGkAbgBnAAoSZQBtAGEAaQBsAEIAbwBkAHkAFV5ADHMAdAByAGkAbgBnAAoMbwB1AHQAcAB1AHQAFV5ADmkAbgB0AGUAZwBlAHIAChZpAG4AZABlAG4AdABMAGUAdgBlAGwAFV5ADHMAdAByAGkAbgBnAAoYZgBpAGwAZQBDAG8AbgB0AGUAbgB0AHMAXxVhYkAMcwB0AHIAaQBuAGcAARomAFUAcwBlAHIARgBpAGwAZQBOAGEAbQBlABViQAxzAHQAcgBpAG4AZwABGiYARgB1AGwAbABGAGkAbABlAE4AYQBtAGUAFWMKEG8AcABlAG4ARgBpAGwAZQALFDkKCEYAaQBsAGUAFWJADHMAdAByAGkAbgBnAAEKJgBjAHIAbABmABViQAxzAHQAcgBpAG4AZwABBiYAYgByABViQAxzAHQAcgBpAG4AZwABFCYATABpAG4AZQBCAHIAZQBhAGsAFU9bFS1PT0lBChBGAGkAbABlAE4AYQBtAGUALW0mJgBOAGUAdwBWAGEAbAB1AGUAIABhAHMAIABTAHQAcgBpAG4AZwBPARomAFUAcwBlAHIARgBpAGwAZQBOAGEAbQBlAAYBEiYATgBlAHcAVgBhAGwAdQBlABVPREAMcwB0AHIAaQBuAGcAARomAHQAZQBtAHAARgBpAGwAZQBOAGEAbQBlAAMBHCYAYgBhAHMAZQBEAGkAcgBlAGMAdABvAHIAeQAVTxwKCE4AbwBuAGUACwESJgBOAGUAdwBWAGEAbAB1AGUAFB8BGiYAdABlAG0AcABGAGkAbABlAE4AYQBtAGUABgoKUgBUAHIAaQBtAAsSFiUATwBwAGUAcgBhAHQAbwByAEkAZAAUIxYILgB0AHgAdAAVGQEaJgB0AGUAbQBwAEYAaQBsAGUATgBhAG0AZQAGCgpSAFQAcgBpAG0ACwoKTABUAHIAaQBtAAsBEiYATgBlAHcAVgBhAGwAdQBlABQUFRoVT08kQABAcgBlAG0AIAAmAFAAUwBIAE8ATQBFACAAPQAgAEcAZQB0AEUAbgB2ACgAIgBQAFMAXwBIAE8ATQBFACIAKQA7AERADHMAdAByAGkAbgBnAAEWJgBzAGUAcgB2AGUAcgBIAG8AbQBlABUBFiYAcwBlAHIAdgBlAHIASABvAG0AZQAGCgxHAGUAdABFAG4AdgALFhRQAFMAXwBTAEUAUgBWAEQASQBSABQVTwEcJgBiAGEAcwBlAEQAaQByAGUAYwB0AG8AcgB5AAYBFiYAcwBlAHIAdgBlAHIASABvAG0AZQAjFgwvAEwATwBHAFMALwAVARomAEYAdQBsAGwARgBpAGwAZQBOAGEAbQBlAAYBHCYAYgBhAHMAZQBEAGkAcgBlAGMAdABvAHIAeQAjARomAHQAZQBtAHAARgBpAGwAZQBOAGEAbQBlABVrFS1PX0EKEEYAaQBsAGUATgBhAG0AZQAtbRxSAGUAdAB1AHIAbgBzACAAUwB0AHIAaQBuAGcAOAEaJgBVAHMAZQByAEYAaQBsAGUATgBhAG0AZQAVahUtT09PT2NBChRkAGEAdABhAEQAdQBtAHAAZQByAC1tKiYARgBpAGwAZQBOAGEAbQBlAEkAbgAgAGEAcwAgAFMAdAByAGkAbgBnAAEKJgBjAHIAbABmAAYLCghDAGgAYQByAAtQEgAAAA0AAAAAAAAAAAAAAAAAABQjCghDAGgAYQByAAtQEgAAAAoAAAAAAAAAAAAAAAAAABQUFQEGJgBiAHIABhYKPABiAHIALwA+ABVPHAoITgBvAG4AZQALARYmAEYAaQBsAGUATgBhAG0AZQBJAG4AFB8SCiUAVABoAGkAcwAFChBGAGkAbABlAE4AYQBtAGUABgoKUgBUAHIAaQBtAAsSFiUATwBwAGUAcgBhAHQAbwByAEkAZAAUIxYeXwBkAGUAYgB1AGcAXwBmAGkAbABlAC4AdAB4AHQAFRkSCiUAVABoAGkAcwAFChBGAGkAbABlAE4AYQBtAGUABgEWJgBGAGkAbABlAE4AYQBtAGUASQBuABUaFU8SCiUAVABoAGkAcwAFCiJwAHUAcgBnAGUARgBpAGwAZQBDAG8AbgB0AGUAbgB0AHMACxQVT2QVLU9jQQoicAB1AHIAZwBlAEYAaQBsAGUAQwBvAG4AdABlAG4AdABzAC1PRAoIRgBpAGwAZQABBCYAZgAVTxwKFEYAaQBsAGUARQB4AGkAcwB0AHMACwEaJgBGAHUAbABsAEYAaQBsAGUATgBhAG0AZQADEiQlAEYAaQBsAGUAUABhAHQAaABfAEEAYgBzAG8AbAB1AHQAZQAUHwEEJgBmAAYKDkcAZQB0AEYAaQBsAGUACwEaJgBGAHUAbABsAEYAaQBsAGUATgBhAG0AZQADFgJXAAMSJCUARgBpAGwAZQBQAGEAdABoAF8AQQBiAHMAbwBsAHUAdABlABQVAQQmAGYABQoKQwBsAG8AcwBlAAsUFRoVT2QVLU9PY0EKEG8AcABlAG4ARgBpAGwAZQAtbRhSAGUAdAB1AHIAbgBzACAARgBpAGwAZQBPRAoIRgBpAGwAZQABBCYAZgAVTxwKFEYAaQBsAGUARQB4AGkAcwB0AHMACwEaJgBGAHUAbABsAEYAaQBsAGUATgBhAG0AZQADEiQlAEYAaQBsAGUAUABhAHQAaABfAEEAYgBzAG8AbAB1AHQAZQAUHwEEJgBmAAYKDkcAZQB0AEYAaQBsAGUACwEaJgBGAHUAbABsAEYAaQBsAGUATgBhAG0AZQADFgJBAAMSJCUARgBpAGwAZQBQAGEAdABoAF8AQQBiAHMAbwBsAHUAdABlABQVGQEEJgBmAAYKDkcAZQB0AEYAaQBsAGUACwEaJgBGAHUAbABsAEYAaQBsAGUATgBhAG0AZQADFgJXAAMSJCUARgBpAGwAZQBQAGEAdABoAF8AQQBiAHMAbwBsAHUAdABlABQVGhVPTzgBBCYAZgAVZBUtT09jQQoUZAB1AG0AcABTAHQAcgBpAG4AZwAtbTAmAHMAdAByAGkAbgBnAFQAbwBXAHIAaQB0AGUAIABhAHMAIABTAHQAcgBpAG4AZwBPRAoIRgBpAGwAZQABBCYAZgAVREAMcwB0AHIAaQBuAGcAAQomAHQAZQBtAHAAFQEKJgB0AGUAbQBwAAYKCFIAZQBwAHQACxYCIAADEgolAFQAaABpAHMABQoWaQBuAGQAZQBuAHQATABlAHYAZQBsABQjARwmAHMAdAByAGkAbgBnAFQAbwBXAHIAaQB0AGUAFQEEJgBmAAYSCiUAVABoAGkAcwAFChBvAHAAZQBuAEYAaQBsAGUACxQVAQQmAGYABQoSVwByAGkAdABlAEwAaQBuAGUACwEKJgB0AGUAbQBwABQVAQQmAGYABQoKQwBsAG8AcwBlAAsUFU9PT2QVLU9PY0EKEmQAdQBtAHAARgBpAGUAbABkAC1tJCYAZgBsAGQARgBpAGUAbABkACAAYQBzACAARgBpAGUAbABkABIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxYAFBUSCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWKl8AXwBfAF8AXwBfAEQAVQBNAFAAIABGAEkARQBMAEQAXwBfAF8AXwBfABQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFgYgACAAIAAjFhhOAGEAbQBlACAAIAAgACAAIAAgADoAIAAjARImAGYAbABkAEYAaQBlAGwAZAAFCghOAGEAbQBlABQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFgYgACAAIAAjFhp2AGEAbAB1AGUAIAAgACAAIAAgACAAOgAgACMBEiYAZgBsAGQARgBpAGUAbABkAAUKClYAYQBsAHUAZQAUFRIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxYGIAAgACAAIxYqTwByAGkAZwBpAG4AYQBsAFYAYQBsAHUAZQAgACAAIAAgACAAIAA6ACAAIwESJgBmAGwAZABGAGkAZQBsAGQABQoaTwByAGkAZwBpAG4AYQBsAFYAYQBsAHUAZQAUFRIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxYGIAAgACAAIxYsRgBvAHIAbQBhAHQAdABlAGQAVgBhAGwAdQBlACAAIAAgACAAIAAgADoAIAAjARImAGYAbABkAEYAaQBlAGwAZAAFChxGAG8AcgBtAGEAdAB0AGUAZABWAGEAbAB1AGUAFBUSCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWBiAAIAAgACMWJkQAaQBzAHAAbABhAHkATwBuAGwAeQAgACAAIAAgACAAIAA6ACAAIwESJgBmAGwAZABGAGkAZQBsAGQABQoWRABpAHMAcABsAGEAeQBPAG4AbAB5ABQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFgYgACAAIAAjFh5WAGkAcwBpAGIAbABlACAAIAAgACAAIAAgADoAIAAjARImAGYAbABkAEYAaQBlAGwAZAAFCg5WAGkAcwBpAGIAbABlABQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFgYgACAAIAAjFh5JAHMASQBuAEIAdQBmACAAIAAgACAAIAAgADoAIAAjARImAGYAbABkAEYAaQBlAGwAZAAFCg5JAHMASQBuAEIAdQBmABQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFgYgACAAIAAjFiJpAHMAQwBoAGEAbgBnAGUAZAAgACAAIAAgACAAIAA6ACAAIwESJgBmAGwAZABGAGkAZQBsAGQABQoSSQBzAEMAaABhAG4AZwBlAGQAFBUcARImAGYAbABkAEYAaQBlAGwAZAAFChRJAHMARQBkAGkAdABYAGwAYQB0AB8SCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWBiAAIAAgACMWNCAATABvAG4AZwBUAHIAYQBuAHMAbABhAHQAZQBWAGEAbAB1AGUAIAAgACAAIAAgADoAIAAjARImAGYAbABkAEYAaQBlAGwAZAAFCiRMAG8AbgBnAFQAcgBhAG4AcwBsAGEAdABlAFYAYQBsAHUAZQAUFRoVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFgAUFWQVLU9jQQoUZAB1AG0AcABSAGUAYwBvAHIAZAAtbRwmAHIAZQBjACAAYQBzACAAUgBlAGMAbwByAGQAT08SCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWKF8AXwBfAF8ARABVAE0AUABfAFIARQBDAE8AUgBEAF8AXwBfAF8AXwAUFRIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxYcIABSAGUAYwBvAHIAZAAuAE4AYQBtAGUAOgAgACMBCCYAcgBlAGMABQoITgBhAG0AZQAUFU9PEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALCxYuIAAgACAAIAAgAHIAZQBjAG8AcgBkAC4ASQBzAEMAaABhAG4AZwBlAGQAOgAgACMBCCYAcgBlAGMABQoSSQBzAEMAaABhAG4AZwBlAGQAFBQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALCxYuIAAgACAAIAAgAHIAZQBjAG8AcgBkAC4ASQBzAEQAZQBsAGUAdABlAGQAOgAgACMBCCYAcgBlAGMABQoSSQBzAEQAZQBsAGUAdABlAGQAFBQVEgolAFQAaABpAHMABQoIZAB1AG0AcAALFgAUFRIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACwsWCiAAIAAgACAAIAAjAQgmAHIAZQBjAAUKCE4AYQBtAGUAIxYcIABmAGkAZQBsAGQAIAB2AGEAbAB1AGUAcwAgABQUFURADmkAbgB0AGUAZwBlAHIAAQQmAGkAFUQKCkYAaQBlAGwAZAABEiYAZgBsAGQARgBpAGUAbABkABVEQAxzAHQAcgBpAG4AZwABECYAYwBoAGEAbgBnAGUAZAAVREAMcwB0AHIAaQBuAGcAAQ4mAHMAcABhAGMAZQByABVEQA5pAG4AdABlAGcAZQByAAEWJgBuAHUAbQBiAFMAcABhAGMAZQBzAAZQEgAAABkAAAAAAAAAAAAAAAAAABVPTykBBCYAaQAGUBIAAAABAAAAAAAAAAAAAAAAAAAqAQgmAHIAZQBjAAUKFEYAaQBlAGwAZABDAG8AdQBuAHQALU8cAQgmAHIAZQBjAAUKEEcAZQB0AEYAaQBlAGwAZAALAQQmAGkAFAUKDkkAcwBJAG4AQgB1AGYAHwESJgBmAGwAZABGAGkAZQBsAGQABgEIJgByAGUAYwAFChBHAGUAdABGAGkAZQBsAGQACwEEJgBpABQVT08BDiYAcwBwAGEAYwBlAHIABgoIUgBlAHAAdAALFgIgAAMLARYmAG4AdQBtAGIAUwBwAGEAYwBlAHMADgoGTABlAG4ACwESJgBmAGwAZABGAGkAZQBsAGQABQoITgBhAG0AZQAUFBQVHAEIJgByAGUAYwAFChBHAGUAdABGAGkAZQBsAGQACwEEJgBpABQFChJJAHMAQwBoAGEAbgBnAGUAZAAfARAmAGMAaABhAG4AZwBlAGQABhZEIAAgACAAIAAqACoAQwBIAEEATgBHAEUARAAqACoAIAAgAE8AcgBpAGcAaQBuAGEAbAAgAFYAYQBsAHUAZQAgAD0AIAAjARImAGYAbABkAEYAaQBlAGwAZAAFChpPAHIAaQBnAGkAbgBhAGwAVgBhAGwAdQBlABUZARAmAGMAaABhAG4AZwBlAGQABhYAFU8aFRwBEiYAZgBsAGQARgBpAGUAbABkAAUKFEkAcwBFAGQAaQB0AFgAbABhAHQAHxIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACwsWCiAAIAAgACAAIAAjARImAGYAbABkAEYAaQBlAGwAZAAFCghOAGEAbQBlACMBDiYAcwBwAGEAYwBlAHIAIxYKIAA9AD0APgAgACMBEiYAZgBsAGQARgBpAGUAbABkAAUKClYAYQBsAHUAZQAjFgYgAC0AIAAjARImAGYAbABkAEYAaQBlAGwAZAAFCiRMAG8AbgBnAFQAcgBhAG4AcwBsAGEAdABlAFYAYQBsAHUAZQAjARAmAGMAaABhAG4AZwBlAGQAFBQVGRIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACwsWCiAAIAAgACAAIAAjARImAGYAbABkAEYAaQBlAGwAZAAFCghOAGEAbQBlACMBDiYAcwBwAGEAYwBlAHIAIxYKIAA9AD0APgAgACMBEiYAZgBsAGQARgBpAGUAbABkAAUKClYAYQBsAHUAZQAUIwEQJgBjAGgAYQBuAGcAZQBkABQVGhVPGk4eAB4vACoAIABJAE4AIABCAFUARgBGAEUAUgAgACoALwAsFU9kFS1PY0EKJGQAdQBtAHAAQQByAHIAYQB5AE8AZgBSAGUAYwBvAHIAZABzAC1tMiYAYQByAHIAYQB5ACAAYQBzACAAQQByAHIAYQB5ACAAbwBmACAAUgBlAGMAbwByAGQAT09ECgxSAGUAYwBvAHIAZAABCCYAcgBlAGMAFURADmkAbgB0AGUAZwBlAHIAARomAGEAcgByAGEAeQBDAG8AdQBuAHQAZQByABUcCgZBAGwAbAALAQwmAGEAcgByAGEAeQAUHykBGiYAYQByAHIAYQB5AEMAbwB1AG4AdABlAHIABlASAAAAAQAAAAAAAAAAAAAAAAAAKgEMJgBhAHIAcgBhAHkABQoGTABlAG4ALQEIJgByAGUAYwAGAQwmAGEAcgByAGEAeQBMARomAGEAcgByAGEAeQBDAG8AdQBuAHQAZQByAE0VEgolAFQAaABpAHMABQoUZAB1AG0AcABSAGUAYwBvAHIAZAALAQgmAHIAZQBjABQVLBUaFU9kFS1PY0EKDmQAdQBtAHAAUgBvAHcALW0WJgByAG8AdwAgAGEAcwAgAFIAbwB3AE9PEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFihfAF8AXwBfAEQAVQBNAFAASQBOAEcAIABSAE8AVwBfAF8AXwBfAF8AFBUkXABccgBlAG0AIAAgACAAIAAlAFQAaABpAHMALgBkAHUAbQBwACgAIgAgAFIAZQBjAG4AYQBtAGUAIAAgACAAOgAgACIAIAB8ACAAJgByAG8AdwAuAFIARQBDACkAOwASCiUAVABoAGkAcwAFCghkAHUAbQBwAAsWHiAAUgBvAHcATgB1AG0AYgBlAHIAIAAgACAAOgAgACMBCCYAcgBvAHcABQoSUgBvAHcATgB1AG0AYgBlAHIAFBUSCiUAVABoAGkAcwAFCghkAHUAbQBwAAsWHiAASQBzAE4AZQB3ACAAIAAgACAAIAAgACAAOgAgACMBCCYAcgBvAHcABQoKSQBzAE4AZQB3ABQVEgolAFQAaABpAHMABQoIZAB1AG0AcAALFh4gAEkAcwBEAGUAbABlAHQAZQBkACAAIAAgADoAIAAjAQgmAHIAbwB3AAUKEkkAcwBEAGUAbABlAHQAZQBkABQVEgolAFQAaABpAHMABQoIZAB1AG0AcAALFh4gAEkAcwBDAGgAYQBuAGcAZQBkACAAIAAgADoAIAAjAQgmAHIAbwB3AAUKEkkAcwBDAGgAYQBuAGcAZQBkABQVEgolAFQAaABpAHMABQoIZAB1AG0AcAALFh4gAFYAaQBzAGkAYgBsAGUAIAAgACAAIAAgADoAIAAjAQgmAHIAbwB3AAUKDlYAaQBzAGkAYgBsAGUAFBVPREAOaQBuAHQAZQBnAGUAcgABBCYAaQAVREAOaQBuAHQAZQBnAGUAcgABHCYAaQBuAGQAZQBuAHQAUAByAGUAcwBlAHYAZQAVTwEcJgBpAG4AZABlAG4AdABQAHIAZQBzAGUAdgBlAAYSCiUAVABoAGkAcwAFChZpAG4AZABlAG4AdABMAGUAdgBlAGwAFRIKJQBUAGgAaQBzAAUKFmkAbgBkAGUAbgB0AEwAZQB2AGUAbAAGEgolAFQAaABpAHMABQoWaQBuAGQAZQBuAHQATABlAHYAZQBsABNQEgAAAAQAAAAAAAAAAAAAAAAAABUpAQQmAGkABlASAAAAAQAAAAAAAAAAAAAAAAAAKgEIJgByAG8AdwAFChZSAGUAYwBvAHIAZABDAG8AdQBuAHQALRIKJQBUAGgAaQBzAAUKFHcAaABpAHQAZQBTAHAAYQBjAGUAC1ASAAAAAgAAAAAAAAAAAAAAAAAAFBUSCiUAVABoAGkAcwAFChRkAHUAbQBwAFIAZQBjAG8AcgBkAAsBCCYAcgBvAHcABQoSRwBlAHQAUgBlAGMAbwByAGQACwEEJgBpABQUFSwVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFixfAF8AXwBfAEUATgBEAEkATgBHACAARABVAE0AUAAgAFIATwBXAF8AXwBfABQVTxIKJQBUAGgAaQBzAAUKFmkAbgBkAGUAbgB0AEwAZQB2AGUAbAAGARwmAGkAbgBkAGUAbgB0AFAAcgBlAHMAZQB2AGUAFWQVLU9PT2NBChRkAHUAbQBwAFIAbwB3AHMAZQB0AC1tGiYAcgBzACAAYQBzACAAUgBvAHcAcwBlAHQAEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFjJfAF8AXwBfAF8AXwBEAFUATQBQAEkATgBHACAAUgBPAFcAUwBFAFQAIABfAF8AXwBfABQVTxIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACwsWICAAIABEAEIAUgBlAGMAbwByAGQATgBhAG0AZQA6ACAAIwEGJgByAHMABQoYRABCAFIAZQBjAG8AcgBkAE4AYQBtAGUAFBQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALCxYeIAAgACAAIABMAGUAdgBlAGwAIAAgAD0APQA+ACAAIwEGJgByAHMABQoKTABlAHYAZQBsABQUFU9PREAOaQBuAHQAZQBnAGUAcgABFiYAcgBvAHcAQwBvAHUAbgB0AGUAcgAVREAOaQBuAHQAZQBnAGUAcgABHCYAaQBuAGQAZQBuAHQAUAByAGUAcwBlAHYAZQAVTwEcJgBpAG4AZABlAG4AdABQAHIAZQBzAGUAdgBlAAYSCiUAVABoAGkAcwAFChZpAG4AZABlAG4AdABMAGUAdgBlAGwAFRIKJQBUAGgAaQBzAAUKFmkAbgBkAGUAbgB0AEwAZQB2AGUAbAAGEgolAFQAaABpAHMABQoWaQBuAGQAZQBuAHQATABlAHYAZQBsABNQEgAAAAQAAAAAAAAAAAAAAAAAABVPTykBFiYAcgBvAHcAQwBvAHUAbgB0AGUAcgAGUBIAAAABAAAAAAAAAAAAAAAAAAAqAQYmAHIAcwAFChBSAG8AdwBDAG8AdQBuAHQALUQKBlIAbwB3AAEGJgByAHcAFQEGJgByAHcABgEGJgByAHMABQoMRwBlAHQAUgBvAHcACwEWJgByAG8AdwBDAG8AdQBuAHQAZQByABQVEgolAFQAaABpAHMABQoOZAB1AG0AcABSAG8AdwALAQYmAHIAdwAUFRIKJQBUAGgAaQBzAAUKFHcAaABpAHQAZQBTAHAAYQBjAGUAC1ASAAAAAgAAAAAAAAAAAAAAAAAAFBVPLBVOHAAcLwAqACAAcgBvAHcAIABsAG8AbwBwACAAKgAvABIKJQBUAGgAaQBzAAUKFmkAbgBkAGUAbgB0AEwAZQB2AGUAbAAGARwmAGkAbgBkAGUAbgB0AFAAcgBlAHMAZQB2AGUAFU9kFS1PY0EKEmQAdQBtAHAAQQByAHIAYQB5AC1tLCYAYQByAHIAYQB5ACAAYQBzACAAQQByAHIAYQB5ACAAbwBmACAAQQBuAHkATxIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxY0XwBfAF8AXwBfAEIARQBHAEkATgAgAEEAUgBSAEEAWQAgAEQAVQBNAFAAXwBfAF8AXwBfABQVREAOaQBuAHQAZQBnAGUAcgABDiYAZABlAGIAdQBnAGkAFRwKBkEAbABsAAsBDCYAYQByAHIAYQB5ABQfKQEOJgBkAGUAYgB1AGcAaQAGUBIAAAABAAAAAAAAAAAAAAAAAAAqAQwmAGEAcgByAGEAeQAFCgZMAGUAbgAtEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALAQwmAGEAcgByAGEAeQBMAQ4mAGQAZQBiAHUAZwBpAE0UFSwVGhUSCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWMF8AXwBfAF8AXwBFAE4ARAAgAEEAUgBSAEEAWQAgAEQAVQBNAFAAXwBfAF8AXwBfABQVT2QVLU9PY0EKImQAdQBtAHAAQQByAHIAYQB5AE8AZgBTAHQAcgBpAG4AZwAtbTImAGEAcgByAGEAeQAgAGEAcwAgAEEAcgByAGEAeQAgAG8AZgAgAFMAdAByAGkAbgBnABIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxY0XwBfAF8AXwBfAEIARQBHAEkATgAgAEEAUgBSAEEAWQAgAEQAVQBNAFAAXwBfAF8AXwBfABQVREAOaQBuAHQAZQBnAGUAcgABDiYAZABlAGIAdQBnAGkAFRwKBkEAbABsAAsBDCYAYQByAHIAYQB5ABQfKQEOJgBkAGUAYgB1AGcAaQAGUBIAAAABAAAAAAAAAAAAAAAAAAAqAQwmAGEAcgByAGEAeQAFCgZMAGUAbgAtEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALAQwmAGEAcgByAGEAeQBMAQ4mAGQAZQBiAHUAZwBpAE0UFSwVGhUSCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWNF8AXwBfAF8AXwBFAE0AQQBJAEwAIABBAFIAUgBBAFkAIABEAFUATQBQAF8AXwBfAF8AXwAUFU9kFS1PY0EKGmUAbQBhAGkAbABEAHUAbQBwAEYAaQBsAGUALW0kJgBhAGQAZAByAGUAcwBzACAAYQBzACAAUwB0AHIAaQBuAGcAT0RADHMAdAByAGkAbgBnAAESJgB0AG0AcABFAG0AYQBpAGwAFU8cCgZBAGwAbAALARAmAGEAZABkAHIAZQBzAHMAFB8BEiYAdABtAHAARQBtAGEAaQBsAAYBECYAYQBkAGQAcgBlAHMAcwAVREAMcwB0AHIAaQBuAGcAAQomAHMAdQBiAGoAAwEKJgBiAG8AZAB5ABVPREAMcwB0AHIAaQBuAGcAARAmAGMAbwBuAHQAZQBuAHQAFURADHMAdAByAGkAbgBnAAESJgBiAG8AZAB5AHQAZQBtAHAABhIKJQBUAGgAaQBzAAUKEmUAbQBhAGkAbABCAG8AZAB5ABVPHAoITgBvAG4AZQALARImAGIAbwBkAHkAdABlAG0AcAAUH08BCiYAcwB1AGIAagAGARomAGUAbQBhAGkAbABTAHUAYgBqAGUAYwB0ACMWBiAAfAAgACMSFiUATwBwAGUAcgBhAHQAbwByAEkAZAAjFgItACMSDiUARABiAE4AYQBtAGUAIxYkIAB8ACAARABlAGIAdQBnACAARAB1AG0AcABlAHIAIAB8ACAAIxISJQBEAGEAdABlAHQAaQBtAGUAFU9PAQomAGIAbwBkAHkABhZuQQB0AHQAYQBjAGgAZQBkACAAeQBvAHUAIAB3AGkAbABsACAAZgBpAG4AZAAgAHQAaABlACAAZABlAGIAdQBnACAAZAB1AG0AcABlAHIAIAB5AG8AdQAgAHIAZQBxAHUAZQBzAHQAZQBkAC4AIAAjAQomAGMAcgBsAGYAFQEKJgBiAG8AZAB5AAYBCiYAYgBvAGQAeQAjFrZJAGYAIAB5AG8AdQAgAGQAaQBkACAAbgBvAHQAIAByAGUAcQB1AGUAcwB0ACAAdABoAGkAcwAgAGYAaQBsAGUALAAgAHAAbABlAGEAcwBlACAAYwBvAG4AdABhAGMAdAAgAHkAbwB1AHIAIAB0AGUAYwBoAG4AaQBjAGEAbAAgAHQAZQBhAG0AIABhAG4AZAAgAGkAZwBuAG8AcgBlACAAdABoAGkAcwAgAGUAbQBhAGkAbAAuACMBCiYAYwByAGwAZgAVTwEKJgBiAG8AZAB5AAYBCiYAYgBvAGQAeQAjFiIgAEYAdQBsAGwAIABGAGkAbABlACAATgBhAG0AZQA6ACAAIwEaJgBGAHUAbABsAEYAaQBsAGUATgBhAG0AZQAVGQEKJgBiAG8AZAB5AAYSCiUAVABoAGkAcwAFChJlAG0AYQBpAGwAQgBvAGQAeQAVGhVPChBTAGUAbgBkAE0AYQBpAGwAC1ASAAAAAAAAAAAAAAAAAAAAAAAAAwESJgB0AG0AcABFAG0AYQBpAGwAAxYAAxYAAwEKJgBzAHUAYgBqAAMBCiYAYgBvAGQAeQADARomAEYAdQBsAGwARgBpAGwAZQBOAGEAbQBlAAMBGiYAVQBzAGUAcgBGAGkAbABlAE4AYQBtAGUAAxYAAxYCLAADARAmAGMAbwBuAHQAZQBuAHQAFBUaFU9kFS1PT2NBChpkAHUAbQBwAEwAZQB2AGUAbABaAGUAcgBvAC0SCiUAVABoAGkAcwAFChRkAHUAbQBwAFIAbwB3AHMAZQB0AAsKEkcAZQB0AEwAZQB2AGUAbAAwAAsUFBVkFS1PT2NBChxkAHUAbQBwAEMAdQByAHIAZQBuAHQAUgBvAHcALRIKJQBUAGgAaQBzAAUKDmQAdQBtAHAAUgBvAHcACwoMRwBlAHQAUgBvAHcACxQUFU9kFS1PT2NBCghkAHUAbQBwAC1tFiYAdgBhAGwAIABhAHMAIABBAG4AeQASCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsKDFMAdAByAGkAbgBnAAsBCCYAdgBhAGwAFBQVZBUtT2NBChR3AGgAaQB0AGUAUwBwAGEAYwBlAC1tGiYAaQAgAGEAcwAgAEkAbgB0AGUAZwBlAHIAHAEEJgBpAAZQEgAAAAAAAAAAAAAAAAAAAAAAAB8SCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWABQVGURADmkAbgB0AGUAZwBlAHIAAQgmAGMAbgB0ABUpAQgmAGMAbgB0AAZQEgAAAAEAAAAAAAAAAAAAAAAAACoBBCYAaQAtEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFgAUFSwVGhVPT2QVLU9fQQoYZgBpAGwAZQBDAG8AbgB0AGUAbgB0AHMALW0cUgBlAHQAdQByAG4AcwAgAFMAdAByAGkAbgBnAE9EQAxzAHQAcgBpAG4AZwABDiYAcgBlAHQAdQByAG4AAwEKJgBsAGkAbgBlABVPRAoIRgBpAGwAZQABCiYAZgBpAGwAZQAGEgolAFQAaABpAHMABQoQbwBwAGUAbgBGAGkAbABlAAsUFU8lAQomAGYAaQBsAGUABQoQUgBlAGEAZABMAGkAbgBlAAsBCiYAbABpAG4AZQAULRUBDiYAcgBlAHQAdQByAG4ABgEOJgByAGUAdAB1AHIAbgAjAQomAGwAaQBuAGUAFSYVTzgBDiYAcgBlAHQAdQByAG4AFWoVLU9PT2NBCh5kAHUAbQBwAFEAdQBlAHIAeQBTAHQAcgBpAG4AZwAtTxIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxZOIABfAF8AXwBfAF8AQgBFAEcASQBOACAARABVAE0AUAAgAEgAVABUAFAAIABRAFUARQBSAFkAIABTAFQAUgBJAE4ARwAgAF8AXwBfACAAFBUSCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWPF8AXwBRAHUAZQByAHkAIABTAHQAcgBpAG4AZwAgAFAAYQByAGEAbQBlAHQAZQByAHMAIABfAF8AXwAgABQVTxIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxYQRgB1AGwAbAAgAFUAcgBpABQVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALEhAlAFIAZQBxAHUAZQBzAHQABQoUUgBlAHEAdQBlAHMAdABVAFIASQAUFRIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxYYUQB1AGUAcgB5ACAAUwB0AHIAaQBuAGcAFBUSCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsSECUAUgBlAHEAdQBlAHMAdAAFChZRAHUAZQByAHkAUwB0AHIAaQBuAGcAFBVPT0RACmEAcgByAGEAeQBABG8AZgBADHMAdAByAGkAbgBnAAEUJgBwAGEAcgBtAE4AYQBtAGUAcwAVREAOaQBuAHQAZQBnAGUAcgABBCYAaQAVARQmAHAAYQByAG0ATgBhAG0AZQBzAAYSECUAUgBlAHEAdQBlAHMAdAAFCiJHAGUAdABQAGEAcgBhAG0AZQB0AGUAcgBOAGEAbQBlAHMACxQVKQEEJgBpAAZQEgAAAAEAAAAAAAAAAAAAAAAAACoBFCYAcABhAHIAbQBOAGEAbQBlAHMABQoGTABlAG4ALU8SCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWBiAAIAAgACMBFCYAcABhAHIAbQBOAGEAbQBlAHMATAEEJgBpAE0jFgI6ACMSECUAUgBlAHEAdQBlAHMAdAAFChhHAGUAdABQAGEAcgBhAG0AZQB0AGUAcgALARQmAHAAYQByAG0ATgBhAG0AZQBzAEwBBCYAaQBNFBQVTywVEgolAFQAaABpAHMABQoUZAB1AG0AcABTAHQAcgBpAG4AZwALFkwgAF8AXwBfAF8AXwBFAE4ARAAgAEQAVQBNAFAAIABIAFQAVABQACAAUQBVAEUAUgBZACAAUwBUAFIASQBOAEcAIAAgAF8AXwBfACAAFBVPT09kFS1PT09jQQocZAB1AG0AcABIAFQAVABQAEgAZQBhAGQAZQByAC0SCiUAVABoAGkAcwAFChRkAHUAbQBwAFMAdAByAGkAbgBnAAsWRCAAXwBfAF8AXwBfAEIARQBHAEkATgAgAEQAVQBNAFAAIABIAFQAVABQACAASABFAEEARABFAFIAUwAgAF8AXwBfACAAFBVPREAKYQByAHIAYQB5AEAEbwBmAEAMcwB0AHIAaQBuAGcAARImAGgAZAByAE4AYQBtAGUAcwAVREAOaQBuAHQAZQBnAGUAcgABBCYAaQAVARImAGgAZAByAE4AYQBtAGUAcwAGEhAlAFIAZQBxAHUAZQBzAHQABQocRwBlAHQASABlAGEAZABlAHIATgBhAG0AZQBzAAsUFSkBBCYAaQAGUBIAAAABAAAAAAAAAAAAAAAAAAAqARImAGgAZAByAE4AYQBtAGUAcwAFCgZMAGUAbgAtTxIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxYGIAAgACAAIwESJgBoAGQAcgBOAGEAbQBlAHMATAEEJgBpAE0jFgI6ACMSECUAUgBlAHEAdQBlAHMAdAAFChJHAGUAdABIAGUAYQBkAGUAcgALARImAGgAZAByAE4AYQBtAGUAcwBMAQQmAGkATRQUFU8sFRIKJQBUAGgAaQBzAAUKFGQAdQBtAHAAUwB0AHIAaQBuAGcACxZAIABfAF8AXwBfAF8ARQBOAEQAIABEAFUATQBQACAASABUAFQAUAAgAEgARQBBAEQARQBSAFMAIABfAF8AXwAgABQVT2QVLU9PT09jQQoqZAB1AG0AcABSAG8AdwBzAGUAdABWAGEAbAB1AGUAcwBBAHMAQwBTAFYALW0cJgByAHMAIABhAHMAIABSAG8AdwBzAGUAdAAsAG04JgBlAHgAYwBsAHUAZABlAEYAaQBlAGwAZABOAGEAbQBlAHMAIABhAHMAIABTAHQAcgBpAG4AZwAkUABQLwAqACAAVABoAGkAcwAgAG8AbgBsAHkAIABkAHUAbQBwAHMAIAB0AGgAZQAgAHAAcgBpAG0AYQByAHkAIAByAGUAYwBvAHIAZAAgACoALwBPT0RADmkAbgB0AGUAZwBlAHIAARYmAHIAbwB3AEMAbwB1AG4AdABlAHIAFURADmkAbgB0AGUAZwBlAHIAARwmAGkAbgBkAGUAbgB0AFAAcgBlAHMAZQB2AGUAFU8BHCYAaQBuAGQAZQBuAHQAUAByAGUAcwBlAHYAZQAGEgolAFQAaABpAHMABQoWaQBuAGQAZQBuAHQATABlAHYAZQBsABUSCiUAVABoAGkAcwAFChZpAG4AZABlAG4AdABMAGUAdgBlAGwABhIKJQBUAGgAaQBzAAUKFmkAbgBkAGUAbgB0AEwAZQB2AGUAbAATUBIAAAAEAAAAAAAAAAAAAAAAAAAVT0RADmkAbgB0AGUAZwBlAHIAARgmAGYAaQBlAGwAZABOAHUAbQBiAGUAcgAVT0QKDFIAZQBjAG8AcgBkAAEIJgByAGUAYwAVT0RADHMAdAByAGkAbgBnAAEOJgBjAHMAdgByAG8AdwAVTykBGCYAZgBpAGUAbABkAE4AdQBtAGIAZQByAAZQEgAAAAEAAAAAAAAAAAAAAAAAACoBBiYAcgBzAAUKDEcAZQB0AFIAbwB3AAtQEgAAAAEAAAAAAAAAAAAAAAAAABQFChJHAGUAdABSAGUAYwBvAHIAZAALUBIAAAABAAAAAAAAAAAAAAAAAAAUBQoURgBpAGUAbABkAEMAbwB1AG4AdAAtTxwKCEYAaQBuAGQACwEGJgByAHMABQoMRwBlAHQAUgBvAHcAC1ASAAAAAQAAAAAAAAAAAAAAAAAAFAUKEkcAZQB0AFIAZQBjAG8AcgBkAAtQEgAAAAEAAAAAAAAAAAAAAAAAABQFChBHAGUAdABGAGkAZQBsAGQACwEYJgBmAGkAZQBsAGQATgB1AG0AYgBlAHIAFAUKCE4AYQBtAGUAAwEkJgBlAHgAYwBsAHUAZABlAEYAaQBlAGwAZABOAGEAbQBlAHMAFAxQEgAAAAAAAAAAAAAAAAAAAAAAAB8cARgmAGYAaQBlAGwAZABOAHUAbQBiAGUAcgAJUBIAAAABAAAAAAAAAAAAAAAAAAAfAQ4mAGMAcwB2AHIAbwB3AAYBDiYAYwBzAHYAcgBvAHcAIxYCLAAVGhVPTwEOJgBjAHMAdgByAG8AdwAGAQ4mAGMAcwB2AHIAbwB3ACMBBiYAcgBzAAUKDEcAZQB0AFIAbwB3AAtQEgAAAAEAAAAAAAAAAAAAAAAAABQFChJHAGUAdABSAGUAYwBvAHIAZAALUBIAAAABAAAAAAAAAAAAAAAAAAAUBQoQRwBlAHQARgBpAGUAbABkAAsBGCYAZgBpAGUAbABkAE4AdQBtAGIAZQByABQFCghOAGEAbQBlABVPGhUsFRIKJQBUAGgAaQBzAAUKCGQAdQBtAHAACwEOJgBjAHMAdgByAG8AdwAUFSkBFiYAcgBvAHcAQwBvAHUAbgB0AGUAcgAGUBIAAAABAAAAAAAAAAAAAAAAAAAqAQYmAHIAcwAFChBSAG8AdwBDAG8AdQBuAHQALU8BDiYAYwBzAHYAcgBvAHcABhYAFSkBGCYAZgBpAGUAbABkAE4AdQBtAGIAZQByAAZQEgAAAAEAAAAAAAAAAAAAAAAAACoBBiYAcgBzAAUKDEcAZQB0AFIAbwB3AAsBFiYAcgBvAHcAQwBvAHUAbgB0AGUAcgAUBQoSRwBlAHQAUgBlAGMAbwByAGQAC1ASAAAAAQAAAAAAAAAAAAAAAAAAFAUKFEYAaQBlAGwAZABDAG8AdQBuAHQALRwKCEYAaQBuAGQACwEGJgByAHMABQoMRwBlAHQAUgBvAHcAC1ASAAAAAQAAAAAAAAAAAAAAAAAAFAUKEkcAZQB0AFIAZQBjAG8AcgBkAAtQEgAAAAEAAAAAAAAAAAAAAAAAABQFChBHAGUAdABGAGkAZQBsAGQACwEYJgBmAGkAZQBsAGQATgB1AG0AYgBlAHIAFAUKCE4AYQBtAGUAAwEkJgBlAHgAYwBsAHUAZABlAEYAaQBlAGwAZABOAGEAbQBlAHMAFAxQEgAAAAAAAAAAAAAAAAAAAAAAAB9PHAEYJgBmAGkAZQBsAGQATgB1AG0AYgBlAHIACVASAAAAAQAAAAAAAAAAAAAAAAAAHwEOJgBjAHMAdgByAG8AdwAGAQ4mAGMAcwB2AHIAbwB3ACMWAiwAFRoVAQ4mAGMAcwB2AHIAbwB3AAYBDiYAYwBzAHYAcgBvAHcAIwEGJgByAHMABQoMRwBlAHQAUgBvAHcACwEWJgByAG8AdwBDAG8AdQBuAHQAZQByABQFChJHAGUAdABSAGUAYwBvAHIAZAALUBIAAAABAAAAAAAAAAAAAAAAAAAUBQoQRwBlAHQARgBpAGUAbABkAAsBGCYAZgBpAGUAbABkAE4AdQBtAGIAZQByABQFCgpWAGEAbAB1AGUAFRoVLBVPEgolAFQAaABpAHMABQoIZAB1AG0AcAALAQ4mAGMAcwB2AHIAbwB3ABQVT09PLBVOHAAcLwAqACAAcgBvAHcAIABsAG8AbwBwACAAKgAvABIKJQBUAGgAaQBzAAUKFmkAbgBkAGUAbgB0AEwAZQB2AGUAbAAGARwmAGkAbgBkAGUAbgB0AFAAcgBlAHMAZQB2AGUAFU9PT09kFS0H/zADAAAi/wEAAAAA/wAAQAAHKEMASABHAF8ARABFAEIAVQBHADoAZABhAHQAYQBEAHUAbQBwAGUAcgAA/wEACgABEmUAbQBhAGkAbABCAG8AZAB5AAD/BQALAAEYRgB1AGwAbABGAGkAbABlAE4AYQBtAGUAAP8GAAsAAQhjAHIAbABmAAD/BAALAAEYVQBzAGUAcgBGAGkAbABlAE4AYQBtAGUAAP8AAAoAARhlAG0AYQBpAGwAUwB1AGIAagBlAGMAdAAA/wgACwABEkwAaQBuAGUAQgByAGUAYQBrAAD/AgAKAAEMbwB1AHQAcAB1AHQAAP8DAAoAERZpAG4AZABlAG4AdABMAGUAdgBlAGwAAP8HAAsAAQRiAHIAAP8AAAIAARBGAGkAbABlAE4AYQBtAGUAAP8AAAYAARhmAGkAbABlAEMAbwBuAHQAZQBuAHQAcwAh/wEAIAAHEEYAaQBsAGUATgBhAG0AZQAj/wAAEAABEEYAaQBsAGUATgBhAG0AZQAAAQcUZABhAHQAYQBEAHUAbQBwAGUAcgACAAcicAB1AHIAZwBlAEYAaQBsAGUAQwBvAG4AdABlAG4AdABzACD/AAABAP8BAAgAEG8AcABlAG4ARgBpAGwAZQAFAQcUZAB1AG0AcABTAHQAcgBpAG4AZwAYAQcSZAB1AG0AcABGAGkAZQBsAGQABwEHFGQAdQBtAHAAUgBlAGMAbwByAGQACQEHJGQAdQBtAHAAQQByAHIAYQB5AE8AZgBSAGUAYwBvAHIAZABzAA0BBw5kAHUAbQBwAFIAbwB3AAsBBxRkAHUAbQBwAFIAbwB3AHMAZQB0AA8BBxJkAHUAbQBwAEEAcgByAGEAeQARAQciZAB1AG0AcABBAHIAcgBhAHkATwBmAFMAdAByAGkAbgBnABMBBxplAG0AYQBpAGwARAB1AG0AcABGAGkAbABlABUABxpkAHUAbQBwAEwAZQB2AGUAbABaAGUAcgBvABYABxxkAHUAbQBwAEMAdQByAHIAZQBuAHQAUgBvAHcAAwEHCGQAdQBtAHAAGgEHFHcAaABpAHQAZQBTAHAAYQBjAGUAJP8AABAAARhmAGkAbABlAEMAbwBuAHQAZQBuAHQAcwAXAAceZAB1AG0AcABRAHUAZQByAHkAUwB0AHIAaQBuAGcAHAAHHGQAdQBtAHAASABUAFQAUABIAGUAYQBkAGUAcgAdAgcqZAB1AG0AcABSAG8AdwBzAGUAdABWAGEAbAB1AGUAcwBBAHMAQwBTAFYAJf8BAAAAAQcHBAcBB/8DAAgAB/8DABgAB/8HAAgAB/8IAAgAB/8EABAAB/8BABAABwEHBwcH/wkACAAHEQcH/wcACAABBwcBBwcHhQAADlAAQQBDAEsAQQBHAEUADFIARQBDAE8AUgBEAA5QAEEAQwBLAEEARwBFAAxSAE8AVwBTAEUAVAAOUABBAEMASwBBAEcARQAGUgBPAFcADlAAQQBDAEsAQQBHAEUACkYASQBFAEwARAAOUABBAEMASwBBAEcARQAIRgBJAEwARQAOUABBAEMASwBBAEcARQAURABBAFQAQQBEAFUATQBQAEUAUgA=</peoplecode_blob>
+  </instance>
